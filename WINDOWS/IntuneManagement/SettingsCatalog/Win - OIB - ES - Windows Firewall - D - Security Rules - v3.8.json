@@ -6,7 +6,7 @@
   "createdDateTime@odata.type": "#DateTimeOffset",
   "createdDateTime": "2026-04-08T14:34:48.9907871Z",
   "creationSource": null,
-  "description": "",
+  "description": "OIBID:51D760CF-928A-4D4E-B743-CA44AB35FE34",
   "lastModifiedDateTime@odata.type": "#DateTimeOffset",
   "lastModifiedDateTime": "2026-04-09T12:06:10.6833148Z",
   "name": "Win - OIB - ES - Windows Firewall - D - Security Rules - v3.8",

@@ -6,7 +6,7 @@
   "createdDateTime@odata.type": "#DateTimeOffset",
   "createdDateTime": "2026-04-09T16:15:15.5073554Z",
   "creationSource": null,
-  "description": "WARNING: This configuration may break access to legacy applications. Ensure you have no reliance on NTLM before deploying.",
+  "description": "WARNING: This configuration may break access to legacy applications. Ensure you have no reliance on NTLM before deploying.\nOIBID:78A64AF6-87DC-4A95-94F8-E967508ADEE7",
   "lastModifiedDateTime@odata.type": "#DateTimeOffset",
   "lastModifiedDateTime": "2026-04-16T10:50:22.0806344Z",
   "name": "Win - OIB - SC - Network Security - D - Disable NTLM - v3.8",

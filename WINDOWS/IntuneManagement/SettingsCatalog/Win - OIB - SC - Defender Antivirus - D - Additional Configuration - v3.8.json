@@ -6,7 +6,7 @@
   "createdDateTime@odata.type": "#DateTimeOffset",
   "createdDateTime": "2024-04-10T19:38:15.3173165Z",
   "creationSource": null,
-  "description": "NOTE: Some of these settings require the device to be onboarded to Defender for Endpoint.",
+  "description": "NOTE: Some of these settings require the device to be onboarded to Defender for Endpoint.\nOIBID:7A7AF9FE-1932-44AD-90DB-F15894A2D2D2",
   "lastModifiedDateTime@odata.type": "#DateTimeOffset",
   "lastModifiedDateTime": "2026-03-05T10:21:42.7331832Z",
   "name": "Win - OIB - SC - Defender Antivirus - D - Additional Configuration - v3.8",
